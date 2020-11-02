@@ -1,0 +1,18 @@
+.btn-info {
+    background-color: white;
+    color: black;
+}
+
+.btn-group{
+    margin-top: 0.3em;
+    margin-bottom: calc(0.3em + 1px);
+    height: calc(1.6em + .77rem + 2px);
+    
+}
+.btn-outline-secondary, .btn-outline-secondary:hover {
+    color: white;
+    border: 1px solid white;
+    background-color: cadetblue;
+    font-weight: bold;
+}
+

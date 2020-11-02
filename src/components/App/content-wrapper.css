@@ -1,0 +1,6 @@
+.content-wrapper {
+    box-sizing: border-box;
+    width: 39em;
+    margin: 10% auto;
+    background: rgba(134, 226, 213, 1);
+}

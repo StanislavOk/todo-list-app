@@ -1,0 +1,15 @@
+.form-control {
+    width: 15em;
+    display: inline-block;
+    margin-bottom: calc(0.3em + 1px);
+    height: calc(1.6em + .77rem + 2px);
+    margin-right: 0.3em;
+    padding-bottom: 10px;
+    margin-left: 0.8em;
+}
+
+.panel {
+    width: inherit;
+    background: rgba(101, 198, 187, 1);
+    margin-bottom: calc(0.3em + 5px);
+}

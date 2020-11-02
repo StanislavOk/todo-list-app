@@ -1,0 +1,26 @@
+#inputTask {
+    display: inline-block;
+}
+
+h3 {
+    margin-left: 0.5em;
+    color: white;
+}
+
+.inputPanel {
+    background: rgba(101, 198, 187, 1);
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.form-group textarea {
+    border: 6px dotted white;
+}
+
+.btn{
+    margin: 0.2em
+}
+
+.btn-success {
+    color: beige;
+}

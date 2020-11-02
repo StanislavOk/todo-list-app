@@ -1,0 +1,26 @@
+.header-style {
+    margin-left: 2em;
+    margin: 0.7em 0px;
+    width: inherit;
+    background: rgba(101, 198, 187, 1);
+    font-size: 21px;
+}
+
+h1 {
+    display: block;
+    margin-left: 5.7em;
+    color: white;
+}
+
+.header-style .badges {
+    margin: 0.3em;
+    padding-left: 9em;
+    padding-left: 19em;
+}
+
+.badge-warning{
+    color: black;
+}
+.badge-success{
+    color: black;
+}
